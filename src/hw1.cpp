@@ -2,13 +2,13 @@
  * @Author: Ming ming_ice_tea@163.com
  * @Date: 2026-02-13 19:06:30
  * @LastEditors: Ming ming_ice_tea@163.com
- * @LastEditTime: 2026-02-16 23:02:03
+ * @LastEditTime: 2026-02-17 00:00:52
  * @FilePath: /AP1400-2-HW1/src/hw1.cpp
  * @Description: 
  * @
  * @Copyright (c) 2026 by Ming ming_ice_tea@163.com, All Rights Reserved. 
  */
-#include "../include/hw1.h"
+#include "hw1.h"
 #include <iostream>
 #include <vector>
 #include <random>
