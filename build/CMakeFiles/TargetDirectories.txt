@@ -1,0 +1,3 @@
+/home/ming/programe/Amirkabir_University_of_Technology_1400-2_Advanced_Programming_Course/AP1400-2-HW1/build/CMakeFiles/main.dir
+/home/ming/programe/Amirkabir_University_of_Technology_1400-2_Advanced_Programming_Course/AP1400-2-HW1/build/CMakeFiles/edit_cache.dir
+/home/ming/programe/Amirkabir_University_of_Technology_1400-2_Advanced_Programming_Course/AP1400-2-HW1/build/CMakeFiles/rebuild_cache.dir
